@@ -1,0 +1,5 @@
+createdb judiciary
+
+create tables
+
+commit all
