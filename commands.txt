@@ -1,0 +1,844 @@
+    1  bash studio.sh
+    2  ping www.facebook.com
+    3  bash studio.sh
+    4  ssh root@10.66.111.252
+    5  ssh root@10.66.111.252
+    6  cd android-studio/
+    7  ls
+    8  cd bin/
+    9  bash studio.sh 
+   10  cd android-studio/
+   11  bash studio.sh 
+   12  cd bin/
+   13  bash studio.sh 
+   14  pyvnc2swf
+   15  vnc2swf.py
+   16  cd android-studio/
+   17  cd bin/
+   18  bash studio.sh 
+   19  vncserver -geometry 640x480
+   20  ssh root@10.66.111.252
+   21  ssh root@10.66.111.252
+   22  cd android-studio/
+   23  cd bin/
+   24  bash studio.sh
+   25  cd android-studio/
+   26  cd bin/
+   27  bash studio.sh
+   28  ssh root@10.66.111.252
+   29  cd android-studio/
+   30  cd bin/
+   31  bash studio.sh
+   32  wget http://kotlination.com/kotlin/kotlin-convert-object-to-from-json-gson
+   33  cd android-studio/
+   34  cd bin/
+   35  bash studio.sh
+   36  ssh root@10.66.111.252
+   37  cd android-studio/
+   38  cd bin/
+   39  bash studio.sh
+   40  adb devices
+   41  adb device
+   42  adb devices
+   43  android-tools-adb
+   44  cd android-studio/
+   45  cd bin/
+   46  bash studio.sh
+   47  cd android-studio/
+   48  cd bin/
+   49  bash studio.sh
+   50  cd android-studio/
+   51  cd bin/
+   52  bash studio.sh
+   53  ssh root@10.66.111.252
+   54  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+   55  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+   56  sudo apt-get update
+   57  sudo apt-get install sublime-text
+   58  sudo apt-get update
+   59  sudo apt-get install sublime-text
+   60  whereis sublime
+   61  which sublime
+   62  whereis sublime text
+   63  whereis sublimetext
+   64  whereis text
+   65  dpkg -L 'text'
+   66  pwd
+   67  ssh root@10.66.111.252
+   68  cd android-studio/
+   69  cd bin/
+   70  bash studio.sh 
+   71  ssh root@10.66.111.252
+   72  cd android-studio/
+   73  cd bin/
+   74  bash studio.sh 
+   75  cd android-studio/
+   76  cd bin/
+   77  bash studio.sh 
+   78  ssh root@10.66.111.252
+   79  cd android-studio/
+   80  cd bin/
+   81  bash studio.sh 
+   82  ssh root@10.66.111.252
+   83  pwd
+   84  ssh root@10.66.111.252
+   85  bash studio.sh 
+   86  pwd
+   87  ssh root@10.66.111.252
+   88  cd android-studio/
+   89  cd bin/
+   90  bash studio.sh 
+   91  adb start-server
+   92  adb
+   93  adb start-server
+   94  cd android-studio/
+   95  cd bin/
+   96  bash studio.sh 
+   97  ssh root@10.66.111.252
+   98  cd android-studio/
+   99  cd bin/
+  100  bash studio.sh 
+  101  cd android-studio/
+  102  bash studio.sh 
+  103  cd android-studio/
+  104  cd bin/
+  105  bash studio.sh 
+  106  ssh root@10.66.111.252
+  107  cd android-studio/
+  108  cd bin/
+  109  cd android-studio/
+  110  bash studio.sh 
+  111  ping 8.8.8.8
+  112  wget https://r1---sn-9pm-t0ae.googlevideo.com/videoplayback?ratebypass=yes&ipbits=0&key=cms1&clen=319864088&itag=18&source=youtube&pl=24&requiressl=yes&mime=video%2Fmp4&ip=107.189.63.204&expire=1500154815&id=o-AAoKLG4oXifgwjsrwthiFf4aNJTQ9lELdbwjeF_09i35&sparams=clen,dur,ei,expire,gir,id,initcwndbps,ip,ipbits,itag,lmt,mime,mip,mm,mn,ms,mv,pl,ratebypass,requiressl,source&lmt=1489142615410465&gir=yes&ei=XzdqWY2vGNbtqgXH665A&dur=4766.243&signature=0E2493B3003F476172896573A86BA5B34BB8B053.04C9436B116EDE879A538811FD064F177635BA2F&cms_redirect=yes&mip=68.71.39.133&mm=31&mn=sn-9pm-t0ae&ms=au&mt=1500133235&mv=m
+  113  ssh root@10.66.111.252
+  114  cd Downloads/
+  115  cd pt/
+  116  sudo ./install
+  117  sudo ./install Popcorn-Time 
+  118  ./Popcorn-Time 
+  119  cd ..
+  120  mkdir $$
+  121  tar -xf Popcorn-Time-*.tar.xz -C $$
+  122  tar -xf Postman-linux-x32-4.11.1.tar.gz.xz -C $$
+  123  tar -xf Postman-linux-x32-4.11.1.tar.gz -C $$
+  124  cd $$
+  125  sudo ./install
+  126  sudo ./install. 
+  127  sudo ./install Postman
+  128  sudo ./install
+  129  cd Postman/
+  130  sudo ./install
+  131  sudo ./install Postman 
+  132  sudo ./install Post.sh
+  133  sudo ./install Postman.sh
+  134  bash Postman.sh
+  135  sudo ./Postman.sh
+  136  sudo apt-add-repository ppa:webupd8team/popcorntime
+  137  sudo apt-get update
+  138  sudo apt-get install popcorn-time
+  139  cd Downloads/
+  140  pwd
+  141  cd Postman
+  142  ./install
+  143  sudo ./install. 
+  144  sudo ./install .
+  145  sudo ./install.
+  146  su -
+  147  echo "deb http://ppa.launchpad.net/webupd8team/popcorntime/ubuntu trusty main" | tee /etc/apt/sources.list.d/webupd8team-popcorntime.list
+  148  su
+  149  sudo add-apt-repository ppa:webupd8team/popcorntime
+  150  $ sudo wget -qO- https://get.popcorntime.sh/build/Popcorn-Time-0.3.10-Linux-64.tar.xz | sudo tar Jx -C /opt/popcorn-time
+  151  cd android-studio/
+  152  cd bin/
+  153  bash studio.sh
+  154  cd android-studio/
+  155  cd bin/
+  156  bash studio.sh
+  157  cd android-studio/
+  158  cd bin/
+  159  bash studio.sh
+  160  ssh root@10.66.111.252
+  161  cd android-studio/
+  162  cd bin/
+  163  bash studio.sh
+  164  cd android-studio/
+  165  cd bin/
+  166  bash studio.sh
+  167  cd ../
+  168  ssh root@10.66.111.252
+  169  cd android-studio/
+  170  cd bin/
+  171  bash studio.sh
+  172  sudo swapon --show
+  173  free -h
+  174  df -h
+  175  sudo fallocate -l 50G /swapfile
+  176  ls -lh /swapfile
+  177  sudo mkswap /swapfile
+  178  sudo swapon /swapfile
+  179  sudo swapon --show
+  180  free -h
+  181  sudo cp /etc/fstab /etc/fstab.bak
+  182  echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
+  183  cd android-studio/
+  184  cd bin/
+  185  bash studio.sh
+  186  df -h
+  187  free -h
+  188  ssh root@10.66.111.252
+  189  cd android-studio/
+  190  cd bin/
+  191  bash studio.sh
+  192  cd android-studio/
+  193  cd bin/
+  194  bash studio.sh
+  195  ssh root@10.20.111.13
+  196  telnet root@10.20.111.13
+  197  telnet 10.20.111.13
+  198  cd android-studio/
+  199  cd bin/
+  200  bash studio.sh
+  201  sudo snap install --classic anbox-installer && anbox-installer
+  202  reboot
+  203  systemctl reboot -i
+  204  ssh industrial@10.20.109.30
+  205  kadhis@10.20.111.13
+  206  ssh kadhis@10.20.111.13
+  207  ping 10.20.111.13
+  208  sudo add-apt-repository ppa:maarten-baert/simplescreenrecorder
+  209  sudo add-get update
+  210  sudo apt-get update
+  211  sudo apt-get install simplescreenrecorder
+  212  cd android-studio/
+  213  cd bin/
+  214  bash studio.sh
+  215  rename '$_ = "$_.mp4"' Desktop/lessons/video/kotlin/The-Essential-Kotlin-Programming-Course/13.0-Object\ Oriented\ Concepts/
+  216  cd Desktop/lessons/video/kotlin/The-Essential-Kotlin-Programming-Course/
+  217  rename '$_ = "$_.mp4"'
+  218  cd 13.0-Object\ Oriented\ Concepts/
+  219  bash remaning_script.sh 
+  220  bash remaning_script.sh
+  221  cd ..
+  222  cd 1.0-Introduction/
+  223  bash remaning_script.sh 
+  224  cd ..
+  225  cd 6.0-Operators/
+  226  bash remaning_script.sh 
+  227  wget https://dl.dropbox.com/u/302704/chromiumos/lightdm-login-chromiumos_1.1_amd64.deb
+  228  sudo apt-get install youtube-dl
+  229  youtube-dl https://www.youtube.com/watch?v=FgZ2DNCZFCE
+  230  sudo apt-get install youtube-dl
+  231  sudo apt-get install youtube-dl  --fix-missing
+  232  youtube-dl https://www.youtube.com/watch?v=FgZ2DNCZFCE
+  233  sudo apt-get install youtube-dl
+  234  Y
+  235  sudo pip install youtube-dl
+  236  cd M-WAKILI/
+  237  bash ctlscript.sh 
+  238  bash rubyconsole 
+  239  cd projects/
+  240  ls
+  241  rails new m-wakili
+  242  cd m-wakili/
+  243  rails s
+  244  rails -v
+  245  bin/rails generate controller welcome index
+  246  rails s
+  247  cd android-studio/
+  248  cd bin/
+  249  ls
+  250  bash studio.sh
+  251  ssh root@10.66.111.252
+  252  cd redmine-3.3.2-3/
+  253  bash use_redmine 
+  254  cd apps/
+  255  ls
+  256  cd redmine/
+  257  ls
+  258  cd htdocs/
+  259  bundle install
+  260  bundle install
+  261  bundle install
+  262  bundle install
+  263  bundle install
+  264  bundle install
+  265  bundle install
+  266  cd rubystack-2.3.3-2/
+  267  bash rubyconsole 
+  268  cd projects/
+  269  ls
+  270  cd principalregistry/
+  271  rails s
+  272  bundle install
+  273  rails s
+  274  bundle exec rails s
+  275  bundle exec rails s
+  276  bundle exec rails s
+  277  bundle exec rails s
+  278  bundle exec rails s
+  279  bundle exec rails s
+  280  bundle exec rails c
+  281  cd android-studio/
+  282  bash studio.sh
+  283  cd bin/
+  284  bash studio.sh
+  285  ssh root@10.20.109.30
+  286  ping 10.20.109.30
+  287  bash studio.sh
+  288  cd android-studio/
+  289  cd bin/
+  290  bash studio.sh
+  291  bash studio.sh
+  292  cd android-studio/
+  293  cd bin/
+  294  bash studio.sh
+  295  cd rubystack-2
+  296  cd rubystack-2.3.3-2/
+  297  bash rubyconsole 
+  298  cd android-studio/
+  299  cd bin/
+  300  bash studio.sh
+  301  cd rubystack-2.3.3-2/
+  302  bash rubyconsole 
+  303  cd projects/
+  304  cd principalregistry/
+  305  bundle exec rails s
+  306  bundle exec rails c
+  307  bundle exec rails s
+  308  bundle exec rails c
+  309  bundle exec rails s
+  310  bundle exec rails c
+  311  bundle exec rails c
+  312  bundle exec rails s
+  313  bundle exec rails s
+  314  bundle exec rails s
+  315  bundle exec rails s -p 4000
+  316  cd android-studio/
+  317  cd bin/
+  318  bash studio.sh
+  319  cd rubystack-2.3.3-2/
+  320  cd projects/
+  321  cd ..
+  322  bash rubyconsole 
+  323  cd projects/
+  324  bundle exec rails s -p 4000
+  325  cd principalregistry/
+  326  bundle exec rails s -p 4000
+  327  bundle exec rails s -p 4000
+  328  bundle install
+  329  bundle install
+  330  bundle exec rails c
+  331  bundle exec rails s -p 4000
+  332  bundle exec rails c
+  333  bundle exec rails s -p 4000
+  334  cd android-studio/
+  335  cd bin/
+  336  ls
+  337  studio.sh
+  338  bash studio.sh
+  339  cd  rubystack-2.3.3-2/
+  340  bash rubyconsole 
+  341  cd android-studio/
+  342  cd bin/
+  343  bash studio.sh
+  344  cd  rubystack-2.3.3-2/
+  345  bash rubyconsole 
+  346  cd  rubystack-2.3.3-2/proj
+  347  cd projects/
+  348  cd principalregistry/
+  349  bundle exec rails s -p 4000
+  350  bundle exec rails s -p 4000
+  351  bundle exec rails c
+  352  bundle exec rails c
+  353  cd  rubystack-2.3.3-2/
+  354  bash rubyconsole 
+  355  cd projects/
+  356  cd principalregistry/
+  357  bundle exec rails s -p 4000
+  358  bundle exec rails s -p 4000
+  359  bundle exec rails s -p 4000
+  360  bundle exec rails s -p 4000
+  361  bundle exec rails s -p 4000
+  362  bundle exec rails s -p 4000
+  363  bundle exec rails s -p 4000
+  364  bundle exec rails s -p 4000
+  365  bundle exec rails s -p 4000
+  366  bundle exec rails s -p 4000
+  367  bundle exec rails s -p 4000
+  368  bundle exec rails s -p 4000
+  369  bundle exec rails s -p 4000
+  370  bundle exec rails s -p 4000
+  371  bundle exec rails s -p 4000
+  372  bundle exec rails s -p 4000
+  373  bundle exec rails s -p 4000
+  374  bundle exec rails s -p 4000
+  375  bundle exec rails s -p 4000
+  376  bundle exec rails s -p 4000
+  377  bundle exec rails s -p 4000
+  378  bundle exec rails s -p 4000
+  379  bundle exec rails s -p 4000
+  380  bundle exec rails s -p 4000
+  381  bundle exec rails s -p 4000
+  382  bundle exec rails s -p 4000
+  383  bundle exec rails s -p 4000
+  384  bundle exec rails s -p 4000
+  385  cd android-studio/
+  386  cd bin/
+  387  bash studio.sh
+  388  ssh root@10.66.111.252
+  389  cd android-studio/
+  390  cd bin/
+  391  bash studio.sh
+  392  cd rubystack-2.3.3-2/
+  393  bash rubyconsole 
+  394  cd rubystack-2.3.3-2/
+  395  bash rubyconsole 
+  396  cd projects
+  397  cd principalregistry/
+  398  bundle exec rails s -p 4000
+  399  bundle exec rails s -p 4000
+  400  rails generate scaffold House title:String,description:Text,owner_id:Integer,agent_id:Integer
+  401  bundle exec rails generate scaffold House title:String,description:Text,owner_id:Integer,agent_id:Integer
+  402  bundle exec rails s -p 4000
+  403  rake db:migrate
+  404  rake db:migrate
+  405  rake db:migrate
+  406  bundle exec rails generate scaffold HouseRent title:string description:integer owner_id:Integer agent_id:Integer
+  407  rake db:migrate
+  408  rails generate scaffold HouseRent title:string description:integer owner_id:integer agent_id:integer 
+  409  bundle exec rails generate scaffold HouseRent title:string description:integer owner_id:integer agent_id:integer 
+  410  bundle exec rails generate scaffold HouseRent title:string description:integer owner_id:integer agent_id:integer
+  411  y
+  412  rake db:migrate
+  413  bundle exec rails s -p 4000
+  414  bundle exec rails generate scaffold HouseRentPicture title:string url:string
+  415  bundle exec rails generate scaffold HouseRent title:string description:integer category:integer owner_id:integer agent_id:integer
+  416  bundle exec rails generate scaffold HouseRent title:string description:integer category:integer owner_id:integer agent_id:integer
+  417  bundle exec rails s -p 4000
+  418  bundle exec rails c
+  419  bundle exec rails s -p 4000
+  420   bundle exec rails generate scaffold RentalHouse title:string description:string category_id:integer owner_id:integer agent_id:integer monthly_rent:decimal rent_deposit:decimal remarks:string
+  421  rake db:migrate
+  422  bundle exec rails s -p 4000
+  423   bundle exec rails generate scaffold HouseCategory name:string description:string
+  424   bundle exec rails generate scaffold HouseCategory name:string description:string
+  425   bundle exec rails generate scaffold HouseCategory name:string description:string
+  426   bundle exec rails generate scaffold HouseCategory name:string description:string
+  427  rake db:migrate
+  428  bundle exec rails s -p 4000
+  429  bundle exec rails c
+  430  bundle exec rails c
+  431  bundle exec rails s -p 4000
+  432   bundle exec rails generate scaffold HousePicture name:string url:string
+  433  rake db:migrate
+  434  bundle exec rails s -p 4000
+  435  bundle exec rails c
+  436  bundle exec rails s -p 4000
+  437  cd android-studio/
+  438  cd bin/
+  439  bash studio.sh
+  440  cd android-studio/
+  441  cd bin/
+  442  bash studio.sh
+  443  10.20.102.12
+  444  10.20.102.11
+  445  ssh root@10.20.102.11
+  446  cd rubystack-2.3.3-2/
+  447  bash rubyconsole 
+  448  cd projects/principalregistry/
+  449  bundle exec rails s -p 4000
+  450  cd android-studio/
+  451  cd bin/
+  452  bash studio.sh
+  453  cd android-studio/
+  454  cd bin/
+  455  bash studio.sh
+  456  cd rubystack-2.3.3-2/
+  457  bash rubyconsole 
+  458  cd projects/principalregistry/
+  459  bundle exec rails s -p 4000
+  460  bundle exec rails s -p 4000
+  461  cd rubystack-2.3.3-2/
+  462  bash rubyconsole 
+  463  cd projects/principalregistry/
+  464  bundle exec rails s -p 4000
+  465  cd android-studio/
+  466  cd bin/
+  467  bash studio.sh
+  468  ssh root@10.20.102.11
+  469  cd android-studio/
+  470  cd bin/
+  471  bash studio.sh
+  472  cd rubystack-2.3.3-2/
+  473  bash rubyconsole 
+  474  cd projects/principalregistry/
+  475  bundle exec rails s -p 4000
+  476  cd android-studio/
+  477  cd bin/
+  478  bash studio.sh
+  479  cd rubystack-2.3.3-2/
+  480  bash rubyconsole 
+  481  cd projects/principalregistry/
+  482  bundle exec rails s -p 4000
+  483  bundle exec rails s -p 4000
+  484  cd projects/principalregistry/
+  485  bundle exec rails s -p 4000
+  486  cd ..
+  487  cd ..
+  488  cd ..
+  489  cd android-studio
+  490  cd bin/
+  491  bash studio.sh
+  492  bash studio.sh
+  493  bash studio.sh
+  494  bash studio.sh
+  495  cd rubystack-2.3.3-2/
+  496  bash rubyconsole 
+  497  cd projects/principalregistry/
+  498  bundle exec rails s -p 4000
+  499  cd rubystack-2.3.3-2/
+  500  bash rubyconsole 
+  501  cd android-studio
+  502  bash studio.sh
+  503  cd bin/
+  504  bash studio.sh
+  505  cd Desktop/
+  506  pwd
+  507  ls
+  508  pwd
+  509  chmod 400 biro-aws-pair.pem
+  510  ssh -i "biro-aws-pair.pem" ubuntu@ec2-52-14-73-103.us-east-2.compute.amazonaws.com
+  511  ec2-52-14-73-103.us-east-2.compute.amazonaws.com
+  512  ssh -i "biro-aws-pair.pem" ubuntu@ec2-52-14-73-103.us-east-2.compute.amazonaws.com
+  513  cd android-studio
+  514  cd bin/
+  515  bash studio.sh
+  516  cd Desktop/
+  517  ssh -i "biro-aws-pair.pem" ubuntu@ec2-52-14-73-103.us-east-2.compute.amazonaws.com
+  518  cd android-studio
+  519  cd bin/
+  520  bash studio.sh
+  521  ssh root@10.20.102.11
+  522  cd android-studio
+  523  cd bin/
+  524  bash studio.sh
+  525  cd android-studio
+  526  cd bin/
+  527  bash studio.sh
+  528  ssh root@10.66.11.252
+  529  cd android-studio
+  530  cd bin/
+  531  bash studio.sh
+  532  ssh root@10.20.102.11
+  533  cd android-studio
+  534  bash studio.sh
+  535  cd bin/
+  536  bash studio.sh
+  537  cd android-studio
+  538  cd bin/
+  539  bash studio.sh
+  540  cd android-studio
+  541  cd bin/
+  542  bash studio.sh
+  543  cd android-studio
+  544  cd bin/
+  545  bash studio.sh
+  546  cd android-studio
+  547  cd bin/
+  548  bash studio.sh
+  549  cd android-studio
+  550  cd bin/
+  551  bash studio.sh
+  552  cd android-studio
+  553  cd bin/
+  554  bash studio.sh
+  555  cd android-studio
+  556  cd bin/
+  557  bash studio.sh
+  558  cd android-studio
+  559  cd bin/
+  560  bash studio.sh
+  561  cd android-studio
+  562  cd bin/
+  563  bash studio.sh
+  564  cd android-studio
+  565  cd bin/
+  566  cd android-studio
+  567  bash studio.sh
+  568  cd android-studio
+  569  cd bin/
+  570  bash studio.sh
+  571  cd android-studio
+  572  cd bin/
+  573  bash studio.sh
+  574  cd android-studio
+  575  cd bin/
+  576  bash studio.sh
+  577  cd android-studio
+  578  cd bin/
+  579  bash studio.sh
+  580  cd android-studio
+  581  cd bin/
+  582  bash studio.sh
+  583  cd android-studio
+  584  cd bin/
+  585  bash studio.sh
+  586  cd android-studio
+  587  cd bin/
+  588  bash studio.sh
+  589  cd android-studio
+  590  bash studio.sh
+  591  cd android-studio
+  592  cd bin/
+  593  bash studio.sh
+  594  cd android-studio
+  595  cd bin/
+  596  bash studio.sh
+  597  cd android-studio
+  598  cd bin/
+  599  bash studio.sh
+  600  cd android-studio
+  601  cd bin/[A
+  602  cd bin/
+  603  bash studio.sh
+  604  cd android-studio
+  605  cd bin/
+  606  bash studio.sh
+  607  cd android-studio
+  608  cd bin/
+  609  bash studio.sh
+  610  cd..
+  611  cd ..
+  612  cdls
+  613  ls
+  614  cd ngobiro/
+  615  cd Desktop/
+  616  bash genymotion-2.10.0-linux_x64
+  617  bash genymotion-2.10.0-linux_x64 (1).bi
+  618  bash geny.bin
+  619  ./gradlew clean
+  620  sudo apt-get install libcupti-dev
+  621  sudo apt-get install python3-pip python3-dev python-virtualenv
+  622  sudo apt-get update --fix-missing 
+  623  sudo apt-get install python3-pip python3-dev python-virtualenv
+  624  cd bin/
+  625  cd ngobiro/
+  626  cd bin/
+  627  pwd
+  628  cd bin/
+  629  cd android-studio/
+  630  cd bin/
+  631  bash studio.sh
+  632  ssh root@10.66.11.252
+  633  ssh root@10.66.11.252 -p 22
+  634  ssh root@10.66.11.252
+  635  sudo apt-get install libdvdcss libdvdread4 libdvdnav4
+  636  sudo lshw -C disk
+  637  cd dev
+  638  cd ..
+  639  cd dev/
+  640  sudo lsblk -f
+  641  sudo lshw -C disk
+  642  sudo add-apt-repository ppa:brandonsnider/cdrtools
+  643  sudo apt update
+  644  sudo apt-get update --fix-missing
+  645  sudo apt install cdrecord mkisofs
+  646  ssh root@10.66.11.252
+  647  telnet 10.66.111.252 22
+  648  ssh root@10.66.11.252
+  649  wget http://zips.udacity-data.com/6370362152/68237/1505761613582/From%20Machine%20Learning%20to%20Deep%20Learning%20Videos.zip
+  650  wget http://d2uz2655q5g6b2.cloudfront.net/ud730/122238/1505761921354/Deep%20Learning%20Videos.zip
+  651  ssh root@10.66.11.252
+  652  ssh root@10.66.111.252
+  653  wget https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh
+  654  cd Downloads/
+  655  /. Anaconda3-5.0.1-Linux-x86_64.sh 
+  656  ./ Anaconda3-5.0.1-Linux-x86_64.sh 
+  657  /. Anaconda3-5.0.1-Linux-x86_64.sh 
+  658  bash Anaconda3-5.0.1-Linux-x86_64.sh 
+  659  anaconda-navigator 
+  660  bash anaconda3
+  661  cd anaconda3
+  662  pwd
+  663  ls
+  664  d ..
+  665  cd ..
+  666  bash con
+  667  bash conda
+  668  sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
+  669  sudo apt-get update
+  670  sudo apt-get install ubuntu-make
+  671  umake ide pycharm
+  672  cd anaconda3/
+  673  cd ..
+  674  bash 
+  675  anaconda-navigator 
+  676  conda
+  677  conda install tensorflow
+  678  cd android-studio/
+  679  ls
+  680  cd bin/
+  681  ls
+  682  bash studio.sh 
+  683  cd  /home/ngobiro/.gradle/wrapper/dists
+  684  bash studio.sh 
+  685  cd ..
+  686  pwd
+  687  cd android-studio/
+  688  cd bin/
+  689  ls
+  690  bash studio.sh
+  691  anaconda-navigator 
+  692  cd /media/ngobiro/
+  693  cd disk/
+  694  SUDO
+  695  sudo
+  696  su
+  697  conda-develop 
+  698  anaconda-navigator 
+  699  anaconda
+  700  pip install --upgrade keras
+  701  pip install  keras
+  702  anaconda-navigator 
+  703  conda create -n tensorflow python=3.6
+  704  source activate tensorflow
+  705  anaconda-navigator 
+  706  source activate tensorflow
+  707  anaconda-navigator 
+  708  pip install svgwrite
+  709  conda
+  710  conda info
+  711  conda info --envs
+  712  source activate tensorflow
+  713  pip install svgwrite
+  714  anaconda-navigator 
+  715  sudo apt-get build-essential
+  716  anaconda-navigator 
+  717  source activate python2
+  718  pip install svgwrite
+  719  conda create -n python2 python=2.7 anaconda
+  720  pip install 01
+  721  anaconda-navigator 
+  722  pip install git+git://github.com/tensorflow/tensorflow@r0.11
+  723  anaconda-navigator 
+  724  sudo apt-install git
+  725  anaconda-navigator 
+  726  source activate python2
+  727  pwd
+  728  cd Desktop/AI/
+  729  pwd
+  730  cd scribe-master/
+  731  python saple.py
+  732  python sample
+  733  python sample.py
+  734  cd android-studio/
+  735  pwd
+  736  ls
+  737  cd bin/
+  738  pwd
+  739  ls
+  740  bash studio.sh 
+  741  sudo add-apt-repository ppa:mystic-mirage/pycharm
+  742  sudo apt update
+  743  pwd
+  744  mkdir 
+  745  pwd
+  746  mkdir gitflow
+  747  cd gitflow
+  748  mkdit jtest
+  749  mkdir jtest
+  750  sudo apt-get gitflow
+  751  sudo apt-get install gitflow
+  752  ls
+  753  git clone https://github.com/pngobiro/jtest.git
+  754  ls
+  755  cd jtest/
+  756  ls
+  757  git init
+  758  sudo apt-install git-flow
+  759  sudo apt-install git flow
+  760  apt-get install git-flow
+  761  sudo apt-get install git-flow
+  762  sudo apt update
+  763  apt-get install git-flow
+  764  sudo apt-get install git-flow
+  765  sudo apt-get update --fix-missing
+  766  apt-get install git-flow
+  767  sudo apt-get install git-flow
+  768  sudo apt autoremove
+  769  sudo apt-get install git-flow
+  770  sudo apt-get update --fix-missing
+  771  sudo apt-get install git-flow
+  772  sudo apt-get update 
+  773  sudo apt-get install git-flow
+  774  sudo apt-get install git-flo0w
+  775  cd gitflow/
+  776  cd jtest/
+  777  ls
+  778  git feature start patrick
+  779  gedit ngobiro.txt
+  780  mkir patrick
+  781  mkdir patrick
+  782  ls
+  783  git status
+  784  git add ngobiro.txt
+  785  git add patrick
+  786  git status
+  787  git feature start
+  788  git help
+  789  sudo apt-install gitflow
+  790  git commit -m
+  791  git commit -m "ngobiro"
+  792  git push
+  793  git status
+  794  nano james.txt
+  795  git status
+  796  git add james.txt 
+  797  history
+  798  sudo apt-install gitflow
+  799  git checkout master
+  800  git add ngobiro.txt 
+  801  git checkout -b ngobiro
+  802  git commit -a
+  803  git push origin master
+  804  git status
+  805  git checkout master
+  806* 
+  807  git push
+  808  git add ngobiro.txt 
+  809  sudo apt-install gitflow
+  810  sudo apt-install git-flow
+  811  sudo apt-install gitflow
+  812  sudo apt-install git-flow
+  813  sudo apt-install gitflow
+  814  sudo apt-get install git-flow
+  815  sudo apt-get update
+  816  sudo apt-get install git-flow
+  817  sudo apt-get update  --fix-missing
+  818  sudo apt-get install git-flow
+  819  sudo apt-get update  --fix-missing
+  820  sudo apt-get install git-flow
+  821  sudo apt-get update --fix-missing
+  822  sudo apt-get install git-flow
+  823  ls
+  824  cd gitflow/
+  825  ls
+  826  cd jtest/
+  827  git flow init
+  828  git flow feature start test
+  829  nano patrick,txt
+  830  nano patrick.txt
+  831  git status
+  832  git add .
+  833  git status
+  834  git commit -m "ngobiro first commit"
+  835  git status
+  836  git branch 
+  837  git push origin master
+  838  cd ..
+  839  ll
+  840  rm -rf jtest/
+  841  git clone https://github.com/pngobiro/jtest
+  842  cd jtest/
+  843  ll
+  844  history > commands.txt
