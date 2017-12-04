@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 This is a read me file
 41
@@ -11,9 +11,16 @@ This is a read me file
 48
 49
 50.
-=======
-This is a read me file.
- develop
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
 51
 52
 53
@@ -24,8 +31,6 @@ This is a read me file.
 58
 59
 60
-
- develop
 31
 32
 33
@@ -36,11 +41,4 @@ This is a read me file.
 38
 39
 40
-
 Benson have added a few lines
-<<<<<<< HEAD
->>>>>>> cd938317ba1abcb17b727a01fd1a8b79aee02fa7
-=======
- develop
-develop
->>>>>>> 43d88fafadcf530f0a0335ef677c9568a57a9493
