@@ -1,0 +1,1000 @@
+ 1002  ping 10.66.112.28
+ 1003  ping 10.66.112.27
+ 1004  ssh skipkorir@197.254.114.92
+ 1005  ls -lsh
+ 1006  chmod -R 777 uploads/
+ 1007  ls -lsh
+ 1008  du
+ 1009  ls
+ 1010  man du
+ 1011  du -h
+ 1012  du -h .
+ 1013  ssh -p 63422 chelule@10.66.110.8
+ 1014  ping www.judiciary.go.ke
+ 1015  ping wwww.icms.judiciary.go.ke
+ 1016  ping icms.judiciary.go.ke
+ 1017  ssh -p63422 ckarani@icms.judiciary.go.ke
+ 1018  du
+ 1019  du -lsh
+ 1020  ls
+ 1021  ./start_navicat 
+ 1022  ssh -p63422 ckarani@icms.judiciary.go.ke
+ 1023  sudo apt-get install mosh
+ 1024  mosh
+ 1025  man mosh
+ 1026  mosh 
+ 1027  virtualenv
+ 1028  man virtualenv
+ 1029  ls
+ 1030  clear
+ 1031  ssh -p63422 ckarani@icms.judiciary.go.ke
+ 1032  locate gedit
+ 1033  locate xed
+ 1034  locate netbean
+ 1035  clear
+ 1036  ssh -p63422 ckarani@icms.judiciary.go.ke
+ 1037  ssh skipkorir@197.254.114.92
+ 1038  du -sh
+ 1039  du -lsh
+ 1040  du -ls
+ 1041  du -lsh
+ 1042  ./start_navicat 
+ 1043  ls
+ 1044  cd ..
+ 1045  cd .
+ 1046  cd ..
+ 1047  cd .....
+ 1048  ls
+ 1049  ssh -p63422 ckarani@icms.judiciary.go.ke
+ 1050  locate buttons.dataTables.min.css
+ 1051  locate buttons.
+ 1052  locate buttons.dataTables.
+ 1053  locate buttons.dataTables
+ 1054  locate jquery.dataTables.min.css
+ 1055  sudo pecl install mongodb
+ 1056  sudo /etc/php.
+ 1057  sudo /etc/php.ini
+ 1058  sudo nano /etc/php.ini
+ 1059  ls
+ 1060  locate mongodb.so
+ 1061  locate *.so
+ 1062  locate php *.so
+ 1063  locate php.ini
+ 1064  sudo nano /etc/php/7.0/apache2/php.ini 
+ 1065  sudo httpd start
+ 1066  sudo httpd reload
+ 1067  sudo reload
+ 1068  sudo reload httpd
+ 1069  sudo restart apache
+ 1070  sudo service apache2 restart
+ 1071  pecl install mongodb
+ 1072  sudo pecl install mongodb
+ 1073  locate mongodb.so
+ 1074  apt-get install pkg-config
+ 1075  sudo apt-get install pkg-config
+ 1076  pecl install mongodb
+ 1077  sudo pecl install mongodb
+ 1078  sudo service apache2 restart
+ 1079  locate mongodb.so
+ 1080  locate mongo.so
+ 1081  locate mongo.
+ 1082  locate mongo*
+ 1083  locate mongo*.so
+ 1084  pecl search mongo
+ 1085  sudo pecl install mongo
+ 1086  sudo pecl install mongodb
+ 1087  locate php.ini
+ 1088  sudo nano /etc/php/7.0/apache2/php.ini
+ 1089  ls
+ 1090  ssh -p63422 ckarani@icms.judiciary.go.ke
+ 1091  sudo install pip youtube-dl
+ 1092  sudo install youtube
+ 1093  sudo install youtube_dl
+ 1094  sudo apt-get install youtube-dl
+ 1095  man youtube-dl
+ 1096  youtube-dl "https://www.youtube.com/watch?v=-wNyEUrxzFU"
+ 1097  openssh
+ 1098  cd /home/cmaina/src/
+ 1099  ls
+ 1100  cd pjs/
+ 1101  ls
+ 1102  cd cms_train/
+ 1103  fabmanager run
+ 1104  youtube-dl "https://www.youtube.com/watch?v=M9D7tc6IeT0"
+ 1105  youtube-dl "https://www.youtube.com/watch?v=6ZDE58uGZFc"
+ 1106  youtube-dl "https://www.youtube.com/watch?v=SZCXCyCDcA4"
+ 1107  youtube-dl "https://www.youtube.com/watch?v=4n3r3FQRMX8"
+ 1108  youtube-dl "https://www.youtube.com/watch?v=aCiF2EwSfBg"
+ 1109  cat /etc/php/7.0/apache2/php.ini 
+ 1110  sudo nano /etc/php/7.0/apache2/php.ini 
+ 1111  sudo service apache2 reload
+ 1112  sudo nano /etc/php/7.0/apache2/php.ini 
+ 1113  sudo service apache2 reload
+ 1114  sudo nano /etc/php/7.0/apache2/php.ini 
+ 1115  sudo service apache2 reload
+ 1116  cd flask/
+ 1117  mkdir Flask_SQLAlchemy
+ 1118  cd Flask_SQLAlchemy/
+ 1119  youtube-dl "https://www.youtube.com/playlist?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW"
+ 1120  locate mysql.ini
+ 1121  cd flask/
+ 1122  mkdir Flask MongoDB
+ 1123  cd Flask MongoDB/
+ 1124  pwd
+ 1125  youtube-dl "https://www.youtube.com/playlist?list=PLXmMXHVSvS-Db9KK1LA7lifcyZm4c-rwj"
+ 1126  ifconfig
+ 1127  cd ..
+ 1128  youtube-dl "https://www.youtube.com/watch?v=1IYf1wpJQZw"
+ 1129  youtube-dl "https://www.youtube.com/watch?v=OXRltKB5dNY"
+ 1130  sudo apt-get install php7.0-zip
+ 1131  sudo reload apache2
+ 1132  service reload apache2
+ 1133  service apache2
+ 1134  service apache2 restart
+ 1135  pwd
+ 1136  mkdir flask
+ 1137  cd flask/
+ 1138  youtube-dl "https://www.youtube.com/watch?v=gDSLrpxR3G4&list=PLei96ZX_m9sWQco3fwtSMqyGL-JDQo28l"
+ 1139  youtube-dl "https://www.youtube.com/playlist?list=PLei96ZX_m9sWQco3fwtSMqyGL-JDQo28l"
+ 1140  youtube-dl "https://www.youtube.com/watch?v=M1IVwFAH9Wo"
+ 1141  youtube-dl "https://www.youtube.com/watch?v=XHGpPCYmPvI"
+ 1142  youtube-dl "https://www.youtube.com/playlist?list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_"
+ 1143  youtube-dl "https://www.youtube.com/playlist?list=PLXmMXHVSvS-BV057PQaOJLnQ4Zp9McdRP"
+ 1144  youtube-dl "https://www.youtube.com/watch?v=VJh_FVtNZfc"
+ 1145  youtube-dl "https://www.youtube.com/watch?v=5fLD0Ebj_XA&spfreload=10"
+ 1146  youtube-dl "https://www.youtube.com/watch?v=S7YZ2xOJz3Q"
+ 1147  youtube-dl "https://www.youtube.com/watch?v=JO7Qwqqq600"
+ 1148  youtube-dl "https://www.youtube.com/watch?v=8wbCM5jFy1M"
+ 1149  youtube-dl "https://www.youtube.com/watch?v=esdY8NXitYE"
+ 1150  ifconfig
+ 1151  man youtube-dl
+ 1152  cd flask/
+ 1153  mkdir flask_tutorial
+ 1154  cd flask_tutorial/
+ 1155  youtube-dl "https://www.youtube.com/playlist?list=PLXmMXHVSvS-CoYS177-UvMAQYRfL3fBtX"
+ 1156  cd ..
+ 1157  youtube-dl "https://www.youtube.com/watch?v=VkmBM146BgI"
+ 1158  postgres
+ 1159  cd src/
+ 1160  ls
+ 1161  virtualenv venv
+ 1162  venv/bin/activate
+ 1163  sudo venv/bin/activate
+ 1164  . venv/bin/activate
+ 1165  sudo apt-get install python-virtualenv
+ 1166  cd pjs/
+ 1167  ls
+ 1168  mkdir cms
+ 1169  mkdir court
+ 1170  cd court/
+ 1171  ls
+ 1172  pip install flask_sqlacodegen
+ 1173  sudo pip install flask-appbuilder
+ 1174  nm-applet
+ 1175  killall unity-panel-service
+ 1176  sudo service network-manager stop 
+ 1177  sudo service network-manager start
+ 1178  locate flexi_auth
+ 1179  cd /home/cmaina/Documents/New folder/
+ 1180  cd /home/cmaina/Documents/New folder
+ 1181  cd /home/cmaina/Documents/New
+ 1182  cd /home/cmaina/Documents/
+ 1183  ls
+ 1184  cd New\ 
+ 1185  cd New folder
+ 1186  mysqldump
+ 1187  mysqldump --help
+ 1188  mysqldump --compartible=postgresql -uroot -p >/tmp/icms-postgres.sql
+ 1189  mysqldump --compatible=postgresql -uroot -p >/tmp/icms-postgres.sql
+ 1190  ls /tmp
+ 1191  ls -lsh /tmp
+ 1192  cat /tmp/icms-postgres.sql 
+ 1193  mysqldump --compatible=postgresql -uroot -proot icms >/tmp/icms-postgres.sql
+ 1194  cat /tmp/icms-postgres.sql 
+ 1195  ls -lsh /tmp
+ 1196  mysqldump --help
+ 1197  mysqldump --help > mysqldump-help.txt
+ 1198  mysqldump -d --compatible=postgresql -uroot -proot icms >/tmp/icms-postgres.sql
+ 1199  mysqldump -d --compact --compatible=postgresql -uroot -proot icms >/tmp/icms-postgres.sql
+ 1200  pgloader
+ 1201  sudo apt-get install  pgadmin3
+ 1202  pgadmin3
+ 1203  ping https://ipmas.judiciary.go.ke/
+ 1204  sudo apt-get install playonlinux
+ 1205  PlayonLinux
+ 1206  pgadmin
+ 1207  pgadmin2
+ 1208  pgadmin
+ 1209  pgadmin3
+ 1210  ping mail.judiciary.go.ke/zimbra/
+ 1211  ping mail.judiciary.go.ke/zimbra
+ 1212  ping mail.judiciary.go.ke
+ 1213  mysqldump -d --compatible=postgresql -uroot -proot icms >./icms-postgres.sql
+ 1214  mysqldump --compatible=postgresql --default-character-set=utf8 -r databasename.mysql -u root icms
+ 1215  mysqldump --compatible=postgresql --default-character-set=utf8 -r databasename.mysql -u root icms -p > ./icms_test.sql
+ 1216  ls
+ 1217  mysqldump --compatible=postgresql --default-character-set=utf8 -r databasename.mysql -u root -p icms > ./icms_test.sql
+ 1218  ls
+ 1219  ls -ls
+ 1220  mysqldump --compatible=postgresql --default-character-set=utf8 -r databasename.mysql -u root -proot icms > ./icms_test.sql
+ 1221  ls -ls
+ 1222  mysqldump --compatible=postgresql --default-character-set=utf8 -r icms.mysql -u root -proot icms > ./icms_test.sql
+ 1223  ls -ls
+ 1224  mysqldump --compatible=postgresql --default-character-set=utf8 -r-uroot -proot icms > ./icms_test.sql
+ 1225  mysqldump --compatible=postgresql --default-character-set=utf8 -r -uroot -proot icms > ./icms_test.sql
+ 1226  mysqldump --compatible=postgresql --default-character-set=utf8 -r -u root -proot icms > ./icms_test.sql
+ 1227  mysqldump -r --compatible=postgresql --default-character-set=utf8 -uroot -proot icms > ./icms_test.sql
+ 1228  ls -l
+ 1229  mysqldump -r --compatible=postgresql --default-character-set=utf8 -uroot -p icms > ./icms_test.sql
+ 1230  ls -ls
+ 1231  mysqldump -r --compatible=postgresql --default-character-set=utf8 -uroot -proot icms > ./icms_test.sql
+ 1232  ls -l
+ 1233  mysqldump -r --compatible=postgresql --default-character-set=utf8 -uroot -proot icms > ./icms_test2.sql
+ 1234  ls -ls
+ 1235  mysqldump -d --compatible=postgresql --default-character-set=utf8 -uroot -proot icms >/tmp/icms-postgres.sql
+ 1236  ls -ls
+ 1237  mysqldump -d --compatible=postgresql --default-character-set=utf8 -r -uroot -proot icms >/tmp/icms-postgres.sql
+ 1238  mysqldump -d --compatible=postgresql --default-character-set=utf8 -uroot -proot icms >/tmp/icms-postgres.sql
+ 1239  mysqldump -d --compatible=postgresql --default-character-set=utf8 -uroot -proot icms.mysql icms >/tmp/icms-postgres.sql
+ 1240  python db_converter.py icms-postgres.sql
+ 1241  mysqldump --help
+ 1242  mysqldump -d --compatible=postgresql --default-character-set=utf8 -uroot -proot \-r icms.mysql icms >/tmp/icms-postgres.sql
+ 1243  ls
+ 1244  mysqldump -d --compatible=postgresql --default-character-set=utf8 -uroot -proot \-r icms_exp.mysql icms >/tmp/icms_export.sql
+ 1245  mysqldump -d --compatible=postgresql --default-character-set=utf8 -uroot -proot \-r icms_exp.mysql icms_exp 
+ 1246  mysqldump -d --compatible=postgresql --default-character-set=utf8 -uroot -proot \-r icms_exp.mysql icms
+ 1247  python db_converter.py icms_exp.mysql icms.psql
+ 1248  ssh -p63422 chelule@10.66.110.8
+ 1249  sudo apt-get install libfuse-dev build-essential
+ 1250  pip install flask-sqlacodegen
+ 1251  docker 
+ 1252  docker info
+ 1253  sudo easy_install virtualenv
+ 1254  virtualenv helloflask
+ 1255  cd src/pjs/
+ 1256  ls
+ 1257  virtualenv icms_test
+ 1258  cd icms_test/
+ 1259  ls
+ 1260  source bin/activate
+ 1261  pip install flask
+ 1262  ls
+ 1263  pip freeze
+ 1264  sudo -H pip install flask-appBuilder
+ 1265  sudo pip install flask
+ 1266  sudo pip install pony
+ 1267  history
+ 1268  fabmanager create app
+ 1269  fabmanager create-app
+ 1270  d
+ 1271  ls
+ 1272  cd ..
+ 1273  npm install -g pgloader
+ 1274  sudo apt install npm
+ 1275  sudo nano /etc/mysql/my.cnf
+ 1276  sudo service mysql restart
+ 1277  clear
+ 1278  virtualenv venv
+ 1279  venv/bin/activate
+ 1280  sudo venv/bin/activate
+ 1281  cd src/pjs/
+ 1282  virtual cts
+ 1283  virtualenv cts
+ 1284  source bin/activate
+ 1285  cd cts
+ 1286  source bin/activate
+ 1287  pip install Flask
+ 1288  ls
+ 1289  ls -lsh
+ 1290  cd app/
+ 1291  ls
+ 1292  cd ..
+ 1293  fabmanager run
+ 1294  cd c..
+ 1295  cd ..
+ 1296  mkdir test_sys
+ 1297  cd test_sys/
+ 1298  virtualenv venv
+ 1299  venv/bin/activate
+ 1300  sudo venv/bin/activate
+ 1301  source bin/activate
+ 1302  venv\scripts\activate
+ 1303  cd venv
+ 1304  ls
+ 1305  cd bin/
+ 1306  ls
+ 1307  cd ..
+ 1308  venv/bin/activate 
+ 1309  ./venv/bin/activate 
+ 1310  chmod 777 venv/bin/activate
+ 1311  venv/bin/activate 
+ 1312  fabmanager run
+ 1313  fabmanager create-app
+ 1314  virtualenv test_sys
+ 1315  cd ..
+ 1316  virtualenv test_sys
+ 1317  cd test_sys/
+ 1318  source bin/activate
+ 1319  ls
+ 1320  fabmanager run
+ 1321  cd ..
+ 1322  fabmanager create-app
+ 1323  cd test_sys/
+ 1324  ls
+ 1325  cd ..
+ 1326  cd..
+ 1327  ls
+ 1328  cd /home/
+ 1329  ls
+ 1330  cd cmaina/
+ 1331  l
+ 1332  ;
+ 1333  //
+ 1334  /
+ 1335  l
+ 1336  ls
+ 1337  cd
+ 1338  pgloader
+ 1339  sudo apt install pgloader
+ 1340  pgloader
+ 1341  pgloader mysql://root@localhost/icms postgresql:///icms_test
+ 1342  pgloader mysql://root:root@localhost/icms postgresql://cmaina:chelule@localhost/icms_test
+ 1343  sudo apt-get install php-pgsql
+ 1344  sudo service apache2 restart
+ 1345  cd src/pjs/
+ 1346  ls
+ 1347  fabmanager create-app
+ 1348  cd cts/
+ 1349  ls
+ 1350  fabmanager run
+ 1351  fabmanager create-admin
+ 1352  fabmanager run
+ 1353  cd ..
+ 1354  cd cms_train/
+ 1355  pip freeze
+ 1356  pip freeze > requirements2.txt
+ 1357  pgadmin3
+ 1358  git clone https://github.com/pallets/flask-website.git
+ 1359  virtualenv venv
+ 1360  git config --global user.name "chelule Maina"
+ 1361  git config --global user.email "chelumaina@gmail.com"
+ 1362  git init
+ 1363  git remote add origin https://gitlab.com/chelumaina/case_tracking.git
+ 1364  venv/bin/activate
+ 1365  bin/activate
+ 1366  cd ..
+ 1367  venv/bin/activate
+ 1368  source venv/bin/activate
+ 1369  cd venv/
+ 1370  pip install flask-appbuilder
+ 1371  ls
+ 1372  fabmanager create-app
+ 1373  cd icms
+ 1374  fabmanager run
+ 1375  ls
+ 1376  fabmanager collect-static
+ 1377  locate base.html
+ 1378  pip install --upgrade setuptools pip
+ 1379  pip freeze
+ 1380  ls
+ 1381  cd ..
+ 1382  deactivate
+ 1383  cd pjs/
+ 1384  ls
+ 1385  virtualenv judiciary
+ 1386  cd judiciary/
+ 1387  bin/activate
+ 1388  source bin/activate
+ 1389  famanager create-app
+ 1390  fabmanager create-app
+ 1391  ls
+ 1392  cd icms/
+ 1393  ls
+ 1394  fabmanager run
+ 1395  ls
+ 1396  locate static/appbuilder/css/themes
+ 1397  sudo pip install flask-appbuilder
+ 1398  sudo pip install flask
+ 1399  fabmanager run
+ 1400  sudo virtualenv venv
+ 1401  sudo apt-get install libapache2-mod-wsgi python-dev
+ 1402  cd Desktop/
+ 1403  mkdir FlaskApp
+ 1404  cdn FlaskApp/
+ 1405  cd FlaskApp/
+ 1406  sudo virtualenv  FlaskApp
+ 1407  source FlaskApp/bin/activate
+ 1408  pip install flask
+ 1409  sudo pip install flask
+ 1410  fabmanager run
+ 1411  fabmanager create-admin
+ 1412  cd ..
+ 1413  fabmanager create-app
+ 1414  cd Flask
+ 1415  cd FlaskApp/
+ 1416  ls
+ 1417  cd FlaskApp/
+ 1418  ls
+ 1419  cd ..
+ 1420  fabmanager create-app
+ 1421  cd FlaskApp/
+ 1422  fabmanager create-app
+ 1423  cd chelule/
+ 1424  sudo pip install flask
+ 1425  ls
+ 1426  tree
+ 1427  cd ..
+ 1428  cd Desktop/FlaskApp/
+ 1429  ls
+ 1430  cd chelule/
+ 1431  ls
+ 1432  pip freeze > requirements.txt
+ 1433  pip install -r requirements.txt
+ 1434  sudo pip install -r requirements.txt
+ 1435  fabmanager create-app
+ 1436  cd icms/
+ 1437  fabmanager create-admin
+ 1438  fabmanager run
+ 1439  pip install flask-appbuilder
+ 1440  cd /usr/local/lib/python2.7/dist-packages/flask_appbuilder/
+ 1441  ls
+ 1442  ping 10.66.110.240
+ 1443  git init
+ 1444  git status
+ 1445  git add .
+ 1446  git status
+ 1447  git remote add origin https://gitlab.com/chelumaina/icms.git
+ 1448  git push -u origin master
+ 1449  cd ..
+ 1450  cd case_tracking/
+ 1451  git init
+ 1452  git remote add origin https://gitlab.com/chelumaina/case_tracking.git
+ 1453  git add .
+ 1454  git commit -m "Initial commit"
+ 1455  git push -u origin master
+ 1456  git checkout -b add chelule
+ 1457  git checkout -b chelule
+ 1458  touch requirement.txt
+ 1459  git status
+ 1460  git add requirement.txt 
+ 1461  git status
+ 1462  git commit -m "Added requirements"
+ 1463  git push
+ 1464  git push --all -u
+ 1465  git status
+ 1466  git branch
+ 1467  git push --all chelule master
+ 1468  git push --all -u chelule master
+ 1469  git push -u chelule master
+ 1470  git push -u origin master
+ 1471  git status
+ 1472  git branch
+ 1473  history > chelule.txt
+ 1474  git status
+ 1475  git commit -m "Added history"
+ 1476  git add chelule.txt 
+ 1477  git commit -m "Added history"
+ 1478  git push -u origin chelule 
+ 1479  man git
+ 1480  git diff
+ 1481  git push -u origin
+ 1482  git log
+ 1483  git log --oneline
+ 1484  man ffmpeg
+ 1485  ffmpeg -i Jubilei-Nyabururu girls national school-8wbCM5jFy1M.webm -r 24 jubilei.mp4
+ 1486  ffmpeg -i "Jubilei-Nyabururu girls national school-8wbCM5jFy1M.webm" -r 24 jubilei.mp4
+ 1487  ffmpeg -i -struct -2 "Jubilei-Nyabururu girls national school-8wbCM5jFy1M.webm" -r 24 jubilei.mp4
+ 1488  ffmpeg -i -struct "Jubilei-Nyabururu girls national school-8wbCM5jFy1M.webm" -r 24 jubilei.mp4
+ 1489  ffmpeg -i -strictubilei-Nyabururu girls national school-8wbCM5jFy1M.webm" -r 24 jubilei.mp4
+ 1490  ffmpeg -i  "Jubilei-Nyabururu girls national school-8wbCM5jFy1M.webm" -r 24 jubilei.mp4
+ 1491  ffmpeg -i -strict  "Jubilei-Nyabururu girls national school-8wbCM5jFy1M.webm" -r 24 jubilei.mp4
+ 1492  ffmpeg -i -2  "Jubilei-Nyabururu girls national school-8wbCM5jFy1M.webm" -r 24 jubilei.mp4
+ 1493  ffmpeg -i '-strict -2'  "Jubilei-Nyabururu girls national school-8wbCM5jFy1M.webm" -r 24 jubilei.mp4
+ 1494  ffmpeg "Jubilei-Nyabururu girls national school-8wbCM5jFy1M.webm" -r 24 jubilei.mp4
+ 1495  ffmpeg -r 1 -i "Jubilei-Nyabururu girls national school-8wbCM5jFy1M.webm" -r 24 jubilei.mp4
+ 1496  ffmpeg -strict -2
+ 1497  ffmpeg -i "Full catholic Gospel Song by Malindi,Nyabururu,Nimeitika Wito-1IYf1wpJQZw.mkv" -r 24 jubilei2.mp4
+ 1498  ls
+ 1499  git status
+ 1500  git add .
+ 1501  git status
+ 1502  git commit -m "special appeal matters added"
+ 1503  git push -u origin master
+ 1504  git status
+ 1505  git diff
+ 1506  git status
+ 1507  git add *
+ 1508  git status
+ 1509  git commit -m " Delete repeated files"
+ 1510  git status
+ 1511  git checkout chelule 
+ 1512  git push origin chelule 
+ 1513  git status
+ 1514  git checkout master 
+ 1515  git merge
+ 1516  git merge chelule 
+ 1517  git push origin master 
+ 1518  git checkout chelule 
+ 1519  git status
+ 1520  git diff
+ 1521  git pull
+ 1522  git branch
+ 1523  git diff
+ 1524  git status
+ 1525  git remote -v
+ 1526  git checkout
+ 1527  git diff
+ 1528  git pull origin chelule 
+ 1529  yes 
+ 1530  yes > yes.txt
+ 1531  git status
+ 1532  git add yes.txt 
+ 1533  git branch 
+ 1534  git checkout chelule 
+ 1535  git commit -m "Add YES YES Text"
+ 1536  history > yes.txt 
+ 1537  git commit -m "Add YES YES Text"
+ 1538  git add yes.txt 
+ 1539  git status
+ 1540  git add yes.txt 
+ 1541  git commit -m "Add YES YES Text"
+ 1542  git push origin chelule 
+ 1543  git status
+ 1544  git checkout 
+ 1545  git checkout master 
+ 1546  git merge chelule 
+ 1547  git push chelule master
+ 1548  git push origin master 
+ 1549  git checkout chelule 
+ 1550  git branch
+ 1551  git push --all master
+ 1552  git push --all origin 
+ 1553  git branch chelule 
+ 1554  git branch master 
+ 1555  git merge chelule 
+ 1556  git branch chelule 
+ 1557  git merge master 
+ 1558  git fetch origin
+ 1559  git checkout -b chelule origin/chelule
+ 1560  git checkout master
+ 1561  git merge --no-ff chelule
+ 1562  git push origin master
+ 1563  git clone https://gitlab.com/chelumaina/case_tracking.git
+ 1564  git status
+ 1565  git branch -b chelule
+ 1566  git pull origin master
+ 1567  git add *
+ 1568  git status
+ 1569  git pull origin master
+ 1570  git commit -m "Heelens changes"
+ 1571  git pull origin master
+ 1572  git fetch 
+ 1573  git fetch
+ 1574  git pull origin master
+ 1575  git status
+ 1576  git add *
+ 1577  git commit -m "Added New party Info"
+ 1578  git status
+ 1579  git pull origin master
+ 1580  git status
+ 1581  git branch chelule
+ 1582  git branch
+ 1583  git checkout master 
+ 1584  git status
+ 1585  git cleam
+ 1586  git clean
+ 1587  history > chelule_maina.txt
+ 1588  git status
+ 1589  git add chelule_maina.txt 
+ 1590  git status
+ 1591  git commit -m "added chelule text file"
+ 1592  git status
+ 1593  git branch
+ 1594  git checkout chelule
+ 1595  git branch
+ 1596  touch kemboi_maina.txt
+ 1597  git status
+ 1598  git add .
+ 1599  git status
+ 1600  git commit -m "added two file chelule and case tracking"
+ 1601  git status
+ 1602  git push origin master 
+ 1603  git status HEAD
+ 1604  cd ..
+ 1605  cp -R case_tracking/ cts
+ 1606  sudo cp -R case_tracking/ cts
+ 1607  git init
+ 1608  sudo git init
+ 1609  ls
+ 1610  sudo git remote add origin https://gitlab.com/chelumaina/cts.git
+ 1611  git add .
+ 1612  sudo git add .
+ 1613  git commit -m "Add CTS to the Repository"
+ 1614  sudo git commit -m "Add CTS to the Repository"
+ 1615  git push -u origin master
+ 1616  git status
+ 1617  sudo rm -rf nbproject/
+ 1618  git status
+ 1619  git commit -m "Added netbeans Folder"
+ 1620  git push origin master 
+ 1621  git status
+ 1622  git push origin master 
+ 1623  git checkout nbproject/project.xml
+ 1624  git status
+ 1625  history > command.txt
+ 1626  git status
+ 1627  git add command.txt 
+ 1628  git commit -m "added commands history files"
+ 1629  git status
+ 1630  git push origin master 
+ 1631  git status
+ 1632  git branch
+ 1633  git diff HEAD
+ 1634  history > test_file.txt
+ 1635  git add test_file.txt 
+ 1636  git commit -m "chelule test files"
+ 1637  git push origin master 
+ 1638  git branch
+ 1639  git merge origin/master 
+ 1640  git merge origin master 
+ 1641  git merge master 
+ 1642  git merge origin/master 
+ 1643  git merge origin
+ 1644  sudo chown cmaina cts
+ 1645  ls
+ 1646  ls -lhs
+ 1647  sudo chown -R cmaina cts
+ 1648  ls -lsh case_tracking/
+ 1649  ssh root@10.66.111.252
+ 1650  ssh -p 62322 chelule@icms.judiciary.go.ke 
+ 1651  ssh -p 63422 chelule@icms.judiciary.go.ke 
+ 1652  python -m SimpleHTTPServer 
+ 1653  python SimpleHTTPServer -m
+ 1654  python m SimpleHTTPServer
+ 1655  python -m SimpleHTTPServer
+ 1656  ping 10.66.110.4
+ 1657  ssh -p 62322 chelule@icms.judiciary.go.ke 
+ 1658  ssh -p 63422 chelule@icms.judiciary.go.ke 
+ 1659  sudo service network-manager stop 
+ 1660  sudo service network-manager start
+ 1661  ssh root@10.66.110.252
+ 1662  ssh root@10.66.111.252
+ 1663  ifconfig
+ 1664  git status
+ 1665  git add *
+ 1666  git status
+ 1667  git branch
+ 1668  git commit -m "Added changes as per the bootcamp review"
+ 1669  git push origin chelule 
+ 1670  git branch
+ 1671  git pull origin chelule
+ 1672  git pull origin master
+ 1673  git pull origin chelule 
+ 1674  git status
+ 1675  git merge -m "Hellen Data from remo"
+ 1676  git status
+ 1677  git add .
+ 1678  git merge -m "Hellen Data from remo"
+ 1679  git merge -m "Pull new changes"
+ 1680  git status
+ 1681  git pull origin chelule 
+ 1682  git merge origin/chelule 
+ 1683  git pull chelule
+ 1684  git commit -m "Chelule Maina
+ 1685  "
+ 1686  git commit -m "Chelule Maina"
+ 1687  git pull origin chelule 
+ 1688  git status
+ 1689  git push origin chelule 
+ 1690  git branch
+ 1691  git status
+ 1692  git checkout master 
+ 1693  git branch 
+ 1694  git merge chelule 
+ 1695  git push origin master 
+ 1696  git checkout chelule 
+ 1697  git status
+ 1698  git branch
+ 1699  git checkout chelule
+ 1700  git status
+ 1701  git add -A
+ 1702  git status
+ 1703  git commit
+ 1704  git commit -m "fixed case registration bug"
+ 1705  git status
+ 1706  git push origin chelule 
+ 1707  git checkout master
+ 1708  git status
+ 1709  git merge chelule master 
+ 1710  git pull
+ 1711  git push origin master 
+ 1712  git pull origin  chelule 
+ 1713  git pull origin  chelule
+ 1714  git fetch origin chelule:chelule 
+ 1715  git branch
+ 1716  git checkout chelule
+ 1717  git fetch origin chelule:chelule 
+ 1718  git pull
+ 1719  git status
+ 1720  clear
+ 1721  git status
+ 1722  git branch
+ 1723  git checkout chelule
+ 1724  git status
+ 1725  git merge origin/chelule 
+ 1726  git merge origin/master 
+ 1727  git merge master chelule 
+ 1728  git merge chelule master 
+ 1729  git status
+ 1730  git add -A
+ 1731  git branch
+ 1732  git commit -m "Made changes to Special field and Report Filter"
+ 1733  git branch master 
+ 1734  git merge chelule master 
+ 1735  git merge master chelule 
+ 1736  git branch chelule 
+ 1737  git checkout master  
+ 1738  git merge master chelule 
+ 1739  git checkout chelule 
+ 1740  git push origin chelule 
+ 1741  git pull
+ 1742  git push origin chelule 
+ 1743  git push origin master
+ 1744  git checkout master 
+ 1745  git status
+ 1746  git add -A
+ 1747  git commit -m "changes made"
+ 1748  git status
+ 1749  git push origin chelule 
+ 1750  git pull
+ 1751  git status
+ 1752  git merge chelule master 
+ 1753  git status
+ 1754  git commit -m "checkout";
+ 1755  git push origin chelule 
+ 1756  git checkout master 
+ 1757  git push origin master 
+ 1758  git status
+ 1759  git checkout chelule 
+ 1760  git status
+ 1761  git branch
+ 1762  sudo apt-add-repository ppa:stebbins/handbrake-releases
+ 1763  cp -R case_tracking/ case_tracking_bk
+ 1764  sudo cp -R case_tracking/ case_tracking_bk
+ 1765  git merge origin/master 
+ 1766  ls -l
+ 1767  chown -R cmaina .
+ 1768  sudo chown -R cmaina .
+ 1769  ls -l
+ 1770  sudo chown -R cmaina *
+ 1771  ls -l
+ 1772  git status
+ 1773  git add .
+ 1774  git branch
+ 1775  git commit -m "Editted Case payment  form"
+ 1776  git push origin chelule 
+ 1777  git checkout master
+ 1778  git merge chelule master
+ 1779  git push chelule master 
+ 1780  git push origin master 
+ 1781  git pull
+ 1782  git branch
+ 1783  git checkout chelule
+ 1784  git pull
+ 1785  d
+ 1786  git diff
+ 1787  git status
+ 1788  git branch master
+ 1789  git checkout master
+ 1790  git status
+ 1791  git branch -r
+ 1792  git status
+ 1793  git branch
+ 1794  git checkout
+ 1795  git checkout chelule
+ 1796  git checkout
+ 1797  git checkout chelule
+ 1798  git branch
+ 1799  git add -A
+ 1800  git status
+ 1801  git commit -m "Added changed Database"
+ 1802  git status
+ 1803  git pull 
+ 1804  git push origin  che
+ 1805  git push origin  chelule 
+ 1806  git status
+ 1807  git checkout master
+ 1808  git branch
+ 1809  git merge chelule master 
+ 1810  git push origin master 
+ 1811  git pull 
+ 1812  git pull origin chelule 
+ 1813  git status
+ 1814  git add -A
+ 1815  git commit -m "changes"
+ 1816  git pull
+ 1817  git push origin chelule 
+ 1818  git status
+ 1819  git checkout master 
+ 1820  git merge chelule master 
+ 1821  git push origin master 
+ 1822  git pull
+ 1823  git pull origin chelule 
+ 1824  git pull
+ 1825  git branch
+ 1826  git pull
+ 1827  git branch master 
+ 1828  git branch
+ 1829  git checkout master 
+ 1830  git merge chelule master 
+ 1831  git merge master chelule 
+ 1832  git branch
+ 1833  gt status
+ 1834  git status
+ 1835  git add -A
+ 1836  git commit -m "changed config"
+ 1837  git checkout master 
+ 1838  git merge master chelule 
+ 1839  git status
+ 1840  git pull
+ 1841  git status
+ 1842  git branch
+ 1843  git checkout chelule 
+ 1844  apt-get install avconv
+ 1845  sudo apt-get install avconv
+ 1846  avconv
+ 1847  sudo apt install libav-tools
+ 1848  locate srs*
+ 1849  locate src
+ 1850  locate srs
+ 1851  git merge origin/master sudo service network-manager start
+ 1852  sudo service network-manager start
+ 1853  sudo service network-manager stop
+ 1854  sudo service network-manager start
+ 1855  avconv
+ 1856  sudo service network-manager stop
+ 1857  sudo service network-manager start
+ 1858  pgadmin3
+ 1859  ffmpeg -i Farxiya\ Fiska\ iyo\ King\ Khalid\ 2017-4n3r3FQRMX8.mkv -r 24 farxiya.mp4
+ 1860  ffmpeg -i -strict -2 Farxiya\ Fiska\ iyo\ King\ Khalid\ 2017-4n3r3FQRMX8.mkv -r 24 farxiya.mp4
+ 1861  ffmpeg -i -strict  Farxiya\ Fiska\ iyo\ King\ Khalid\ 2017-4n3r3FQRMX8.mkv -r 24 farxiya.mp4
+ 1862  ffmpeg -i -strict  "Farxiya Fiska iyo King Khalid 2017-4n3r3FQRMX8.mkv" -r 24 farxiya.mp4
+ 1863  ffmpeg -i -strict  'Farxiya Fiska iyo King Khalid 2017-4n3r3FQRMX8.mkv' -r 24 farxiya.mp4
+ 1864  ffmpeg 'Farxiya Fiska iyo King Khalid 2017-4n3r3FQRMX8.mkv' -r 24 farxiya.mp4
+ 1865  ffmpeg -i 'Farxiya Fiska iyo King Khalid 2017-4n3r3FQRMX8.mkv' -r 24 farxiya.mp4
+ 1866  ffmpeg -i -2 'Farxiya Fiska iyo King Khalid 2017-4n3r3FQRMX8.mkv' -r 24 farxiya.mp4
+ 1867  ffmpeg -i 'Farxiya Fiska iyo King Khalid 2017-4n3r3FQRMX8.mkv' -strict -r 24 farxiya.mp4
+ 1868  python -m SimpleHTTPServer 
+ 1869  ffmpeg -i "Farxiya Fiska iyo King Khalid 2017-4n3r3FQRMX8.mkv" -vcodec libx264 profile:v main -level 3.1 -preset medium -crf 23 -x264-params ref=4 -acodec copy -movflags +faststart fiska.mp4
+ 1870  ffmpeg -i "Farxiya Fiska iyo King Khalid 2017-4n3r3FQRMX8.mkv" -vcodec libx264 -profile:v main -level 3.1 -preset medium -crf 23 -x264-params ref=4 -acodec copy -movflags +faststart fiska.mp4
+ 1871  locate navicat
+ 1872  locate navicat.
+ 1873  ping 172.17.28.2
+ 1874  ping 10.66.112.26
+ 1875  ping 10.66.112.2
+ 1876  ping 10.66.112.14
+ 1877  ping 10.66.110.8
+ 1878  ping 10.66.112.10
+ 1879  ping 10.66.112.20
+ 1880  ping 10.66.112.112
+ 1881  ping 10.66.112.3
+ 1882  ping 172.17.28.1
+ 1883  ping 172.17.28.254
+ 1884  ping 10.109.1.196
+ 1885  ping 10.66.112.2
+ 1886  ping 10.66.112.3
+ 1887  locate git
+ 1888  man ffmpeg
+ 1889  youtube-dl -F https://www.youtube.com/watch?v=8wbCM5jFy1M
+ 1890  sudo youtube-dl -F https://www.youtube.com/watch?v=8wbCM5jFy1M
+ 1891  sudo youtube-dl -F 22 https://www.youtube.com/watch?v=8wbCM5jFy1M
+ 1892  sudo youtube-dl -f 22 https://www.youtube.com/watch?v=8wbCM5jFy1M
+ 1893  mkdir jce
+ 1894  sudo mkdir jce
+ 1895  ce jce/
+ 1896  cd jce/
+ 1897  git config --global user.name "chelule Maina"
+ 1898  git config --global user.email "chelumaina@gmail.com"
+ 1899  git init
+ 1900  sudo git init
+ 1901  git remote add origin https://gitlab.com/judiciary/jce.git
+ 1902  sudo git remote add origin https://gitlab.com/judiciary/jce.git
+ 1903  git add .
+ 1904  sudo git add .
+ 1905  sudo git commit -m "Initial commit"
+ 1906  git push -u origin master
+ 1907  sudo git push -u origin master
+ 1908  git status
+ 1909  ]git add
+ 1910  ]git add .
+ 1911  git add .
+ 1912  chown cmaina . 
+ 1913  sudo chown cmaina . 
+ 1914  ls
+ 1915  cd ..
+ 1916  ls -lsh
+ 1917  cd jce/
+ 1918  git
+ 1919  git status
+ 1920  git add .
+ 1921  git status
+ 1922  git add .
+ 1923  sudo git add .
+ 1924  git status
+ 1925  sudo git add .
+ 1926  git status
+ 1927  git commit -m "JCE changes"
+ 1928  sudo git commit -m "JCE changes"
+ 1929  git branch 
+ 1930  git merge 
+ 1931  sudo git push -u origin master
+ 1932  ping 188.226.138.179
+ 1933  ssh-keygen
+ 1934  ssh-keygen -t rsa -b 4096 -C chelule.maina@court.go.ke
+ 1935  cd /home/cmaina/.ssh/
+ 1936  ls
+ 1937  cd /home/cmaina/.ssh/id_rs
+ 1938  locate chelule_public_key.pub.
+ 1939  cd ..
+ 1940  ls
+ 1941  cd /home/cmaina/
+ 1942  ls -hls
+ 1943  cd .ssh/
+ 1944  ls -l
+ 1945  ssh-keygen -t rsa
+ 1946  ssh-copy-id
+ 1947  cd /home/cmaina/.ssh/id_rsa
+ 1948  xclip -sel clip < ~/.ssh/id_rsa.pub
+ 1949  sudo ssh-keygen -t rsa -b 4096 -C chelule.maina@court.go.ke
+ 1950  cd /root/.ssh/id_rsa
+ 1951  sudo cd /root/.ssh/id_rsa
+ 1952  locate id_rsa
+ 1953  locate *.pub
+ 1954  cd /h
+ 1955  ls 
+ 1956  cat staging_server
+ 1957  cat staging_server.pub 
+ 1958  pwd
+ 1959  cd 
+ 1960  git status
+ 1961  git branch
+ 1962  git add .
+ 1963  git status
+ 1964  git commit -m "added changes after DR Meeting"
+ 1965  git add .
+ 1966  git status
+ 1967  git pull origin chelule 
+ 1968  git checkout master 
+ 1969  git branch
+ 1970  git merge master chelule 
+ 1971  git pull origin master 
+ 1972  git merge origin master 
+ 1973  git merge 
+ 1974  git merge chelule 
+ 1975  git push origin chelule 
+ 1976  cat ~/.ssh/id_rsa.pub
+ 1977  apt get install git-flow
+ 1978  sudo apt install git-flow
+ 1979  sudo apt-get install git-flow
+ 1980  git flow 
+ 1981  sudo apt-get install git-flow
+ 1982  mkdir jtest
+ 1983  git clone https://github.com/Nyamuiru/jtest
+ 1984  git clone https://github.com/chelumaina/jtest
+ 1985  ll
+ 1986  rm -rf jtest/
+ 1987  git clone https://github.com/chelumaina/jtest
+ 1988  git-flow init
+ 1989  sudo service network-manager stop 
+ 1990  sudo service network-manager start
+ 1991  ping efiling.court.go.ke
+ 1992  ssh -p 63422 chelule@icms.judiciary.go.ke
+ 1993  ping https://ipmas.judiciary.go.ke/japi/cases
+ 1994  ping ipmas.judiciary.go.ke
+ 1995  ping efiling.court.go.ke
+ 1996  ssh -p 63422 chelule@icms.judiciary.go.ke
+ 1997  youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best' https://www.youtube.com/watch?v=8wbCM5jFy1M
+ 1998  git flow  init
+ 1999  git branch develop
+ 2000  git flow  init
+ 2001  history > command.txt
